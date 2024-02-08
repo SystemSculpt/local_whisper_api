@@ -1,0 +1,10 @@
+flask
+git+https://github.com/openai/whisper.git
+soundfile
+pydub
+flask_cors
+sounddevice
+numpy
+scipy
+requests
+clipboard
